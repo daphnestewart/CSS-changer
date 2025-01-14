@@ -1,2 +1,2 @@
 # CSS-changer
-CCS format changer for images
+CCS format changer for image
